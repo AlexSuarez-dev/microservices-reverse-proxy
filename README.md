@@ -17,4 +17,4 @@ The centralized proxy allows multiple applications to coexist on the same physic
 
 This proxy actively routes traffic to the following independent services:
 
-1. **[IT Inventory System](PON_AQUI_EL_LINK_A_TU_OTRO_REPO):** Spring Boot (Java 17) and MySQL backend for IT hardware management. Routed under `/inventario/`.
+1. **[IT Inventory System](https://github.com/AlexSuarez-dev/Centralized-data-structure.git):** Spring Boot (Java 17) and MySQL backend for IT hardware management. Routed under `/inventario/`.
